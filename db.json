@@ -33,26 +33,5 @@
     "image": "img/fresa-hielo.jpg",
     "extraInfo": "Caja 10 ud. (750 ml)",
     "price": 1.65
-  },
-  {
-    "id": 6,
-    "name": "Helado yogoice Mr. Toddy",
-    "image": "img/yogoice.jpg",
-    "extraInfo": "Caja 8 ud. (450 ml)",
-    "price": 1.7
-  },
-  {
-    "id": 7,
-    "name": "Helado sabor huevo de chocolate",
-    "image": "img/huevo.jpg",
-    "extraInfo": "Tarrina 1 L.",
-    "price": 2.55
-  },
-  {
-    "id": 8,
-    "name": "Medios cocos helados",
-    "image": "img/medio-coco-helado.jpg",
-    "extraInfo": "Caja 2 ud. (350 ml)",
-    "price": 2.05
   }
 ]
